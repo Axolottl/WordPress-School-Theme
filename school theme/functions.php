@@ -14,6 +14,7 @@ function load_stylesheets()
 
 	wp_enqueue_style('boostrap',get_template_directory_uri(). '/css/boostrap.min.css');
 	wp_enqueue_style('style',get_template_directory_uri(). '/main.css');
+	wp_enqueue_style('404',get_template_directory_uri(). '/404.css');
 
 }
 add_action('wp_enqueue_scripts','load_stylesheets');

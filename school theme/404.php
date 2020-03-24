@@ -1,6 +1,4 @@
 <?php get_header() ; ?>
-
-
     <figure>
     <div class="sad-mac"></div>
     <figcaption>
