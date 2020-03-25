@@ -1,4 +1,4 @@
-	<div class="footer text-center">
+	<div class="footer text-center ">
 		Copyright: &copy; 2020 EST-SB
 	</div>
 

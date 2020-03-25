@@ -1,3 +1,22 @@
+/* general */
+body{
+	
+	background-color: #EEE;
+}
+/*navbar style*/
+.navbar{
+
+	padding: .8rem;
+}
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+.nav-link{
+	font-size: 1.1em !important;
+}
+
+/*footer style*/
 .footer{
 	background-color: #333;
 	color: #EEE;
@@ -7,12 +26,74 @@
 	left: 0;
 	width: 100%;
 }
-* {
-	border: 0;
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+/* main post style*/
+
+.main-post{
+	padding: 20px;
+	background-color: #FFF;
+	border: 1px solid #d8d8d8;
+	margin-bottom: 10px;
+
 }
-body {
-	background: currentColor;
+.main-post h3{
+	margin: 0 0 10px;
+	font-weight: bold;
+	color:#777;
+	letter-spacing: -1px;
 }
+.main-post .post-author,
+.main-post .post-date,
+.main-post .post-comments{
+ font-size: 12px;
+
+}
+.main-post img{
+	display: block;
+	margin: 10px 0 10px;
+}
+.main-post .post-content{
+	font-weight: 1.7;
+	color: #888;
+
+}
+
+
+
+
+
+
+
+
+/*
+    404 page style
+*/
+
+
+.page_404{ padding:40px 0; background:#fff; font-family: 'Arvo', serif;
+}
+
+.page_404  img{ width:100%;}
+
+.four_zero_four_bg{
+ 
+ background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+ }
+ 
+ 
+ .four_zero_four_bg h1{
+ font-size:80px;
+ }
+ 
+  .four_zero_four_bg h3{
+			 font-size:80px;
+			 }
+			 
+			 .link_404{			 
+	color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;}
+	.contant_box_404{ margin-top:-50px;}
