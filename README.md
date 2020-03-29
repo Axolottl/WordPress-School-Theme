@@ -35,3 +35,10 @@ and check the following browsers link :
 https://localhost/phpmyadmin
 ```
 Enter your previous informations entered during the installation process
+
+Now go ahead and place the downloaded themes ```wp-Theme``` folder to the ```/wp-content/themes/``` directory inside of Wordpress Main directory.
+
+## Manual Installation :
+
+- Go ahead and Activate the Theme through the Themes menu in Wordpress
+- Check Appearance -> ```School-Theme``` option to change the theme options
