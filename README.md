@@ -1,6 +1,6 @@
 # A WordPress School Design
 
-The current project is a theme available for wordpress users wishing to have an out of the box functional website running on wordpress, it is a fully responsive dynamic theme that works across platforms.
+The current project is a theme available for wordpress users wishing to have an out of the box functional website running on wordpress, a fully responsive and dynamic theme that works across platforms.
 
 #### Contributors :
 - Marwane El Faroki        [Email Me](mailto:elfaroki.m.i@gmail.com)
