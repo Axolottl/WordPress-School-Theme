@@ -20,8 +20,18 @@ After having setup the prerequisites, You can install your xampp using the follo
 chmod +x xampp-linux-x"64/32"-x.x.x-x-installer.run
 sudo ./xampp-linux-x"64/32"-x.x.x-x-installer.run
 ```
-You can now Install PhpMyAdmin
+You can now Install phpMyAdmin
 ```bash
 sudo apt-get update
 sudo apt-get install phpmyadmin php-mbstring php-gettext
 ```
+- For the Server selection , choose XAMPP
+- select <b>yes</b> when asked whether to use ```dbconfig-common```
+- Go ahead and confirm the password for ```phpMyAdmin```
+
+Now go ahead and restart your XAMPP service
+and check the following browsers link :
+```
+https://localhost/phpmyadmin
+```
+Enter your previous informations entered during the installation process
