@@ -2,6 +2,48 @@
 body{
 	
 	background-color: #EEE;
+	overflow-x: hidden;
+  background: url(img/landings.png) no-repeat 50% 50%;
+  background-size: cover;
+
+}
+.welcome{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  display: table;
+  top: 0;
+}
+.welcome .inners {
+  display: table-cell;
+  vertical-align: middle;
+  padding-bottom: 30%;
+
+}
+.content h1 {
+  margin-top: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  width: inherit;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 370%;
+  text-shadow: 3px 3px #6E7889;
+  animation-name: fadeInDown;
+  animation-duration: 2.6s;
+}
+.content a {
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  width: inherit;
+  font-size: 130%;
+  font-family: 'Open Sans' sans-serif;
+  color: White;
+  border: 2.5px solid white;
+  border-radius: 5px;
+  animation-name: fadeInDown;
+  animation-duration: 3s;
 }
 /*navbar style*/
 .navbar{
@@ -17,15 +59,7 @@ body{
 }
 
 /*footer style*/
-.footer{
-	background-color: #333;
-	color: #EEE;
-	padding: 20px;
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-}
+
 /* main post style*/
 
 .main-post{
@@ -33,6 +67,7 @@ body{
 	background-color: #FFF;
 	border: 1px solid #d8d8d8;
 	margin-bottom: 10px;
+
 
 }
 .main-post h3{
@@ -47,6 +82,7 @@ body{
  font-size: 12px;
 
 }
+
 .main-post img{
 	display: block;
 	margin: 10px 0 10px;
@@ -58,6 +94,27 @@ body{
 }
 
 
+.page-content  {
+	padding: 20px;
+	background-color: #FFF;
+	border: 1px solid #d8d8d8;
+	margin-bottom: 10px;
+	
+
+
+}
+.page-image{
+	padding: 20px;
+	background-color: #FFF;
+	border: 1px solid #d8d8d8;
+	margin-bottom: 10px;
+
+}
+.page-image img{
+	display: block;
+	margin: 10px 0 10px;
+	
+}
 
 
 
@@ -103,7 +160,14 @@ body{
 
 
 
-	
+
+
+
+
+
+
+
+
 
 	<!--Section Animation Opening-->
 @-webkit-keyframes fadeInDown {

@@ -1,5 +1,6 @@
 
 <?php get_header();?>
+   
     <div class="landing">
         <div class="home-wrap">
             <div class="home-inner">
@@ -20,7 +21,10 @@
 
 </div>
 
- <div class="jumbotron jumbotron-fluid">
+
+
+
+	   <div class="jumbotron jumbotron-fluid">
       <div class="container text-center">
         <h1 class="display-4"><?php the_title();?></h1>
       </div>
@@ -44,7 +48,7 @@
         </div>
     </div>
 
-    
+	
     <div class="container">
         <div class="row">
        

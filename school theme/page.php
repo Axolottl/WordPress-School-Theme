@@ -1,5 +1,6 @@
 <?php get_header();?>
 	
+	
 	<div class="landing">
 		<div class="home-wrap">
 			<div class="home-inner">
@@ -19,6 +20,19 @@
 	</div>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 	<div class="jumbotron jumbotron-fluid">
@@ -44,4 +58,5 @@
 		
 		</div>
 	</div>
+
 <?php get_footer();?>
