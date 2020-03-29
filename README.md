@@ -46,3 +46,13 @@ Now go ahead and place the downloaded themes ```wp-Theme``` folder to the ```/wp
 ## Supported Browsers :
 
 Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
+
+## Visuals of the Project
+
+### Video Presentation for the Theme
+
+[![Video for the Theme](https://i.imgur.com/aESW6cK.png)](https://www.youtube.com/watch?time_continue=0&v=46iHCk7xPzQ)
+
+### Further Website Pictures
+
+![alt text](https://i.imgur.com/aESW6cK.png) 
