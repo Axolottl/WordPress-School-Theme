@@ -54,5 +54,21 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 [![Video for the Theme](https://i.imgur.com/aESW6cK.png)](https://www.youtube.com/watch?time_continue=0&v=46iHCk7xPzQ)
 
 ### Further Website Pictures
+![alt text](https://i.imgur.com/RbnoaiO.png)
+
+![alt text](https://i.imgur.com/Ed8jFKK.png)
+
+![alt text](https://i.imgur.com/wqMhl2A.png)
+
+![alt text](https://i.imgur.com/Jm2dCaF.png)
+
+![alt text](https://i.imgur.com/rxpj0v1.png)
 
 ![alt text](https://i.imgur.com/aESW6cK.png) 
+
+![alt text](https://i.imgur.com/fUq6b99.png)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
