@@ -1,5 +1,25 @@
 <?php get_header();?>
 	
+	<div class="landing">
+		<div class="home-wrap">
+			<div class="home-inner">
+			</div>
+		</div>
+	</div>
+	<div class="caption center-block text-center">
+		<section class="welcome">
+			<div class="inners">
+				<div class="content">
+							<h1 class="text-center"> <?php the_title();?> </h1>
+							<a class="btn btn-outline-light" href="#dut">Welcome</a>&nbsp;&nbsp;&nbsp;&nbsp;
+							
+				</div>
+			</div>
+		</section>
+	</div>
+
+</div>
+
 
 	<div class="jumbotron jumbotron-fluid">
 	  <div class="container text-center">
