@@ -51,7 +51,7 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 ### Video Presentation for the Theme
 
-[![Video for the Theme](https://i.imgur.com/aESW6cK.png)](https://www.youtube.com/watch?time_continue=0&v=46iHCk7xPzQ)
+[![Video for the Theme](https://i.imgur.com/aedgIy1.jpg)](https://www.youtube.com/watch?time_continue=0&v=46iHCk7xPzQ)
 
 ### Further Website Pictures
 ![alt text](https://i.imgur.com/RbnoaiO.png)
