@@ -42,3 +42,7 @@ Now go ahead and place the downloaded themes ```wp-Theme``` folder to the ```/wp
 
 - Go ahead and Activate the Theme through the Themes menu in Wordpress
 - Check Appearance -> ```School-Theme``` option to change the theme options
+
+## Supported Browsers :
+
+Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
